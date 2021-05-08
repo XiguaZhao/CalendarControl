@@ -47,6 +47,6 @@ let package = Package(
   ],
   targets: [
 //3
-    .binaryTarget(name: "CalendarControl", path: "./Source/CalendarControl.xcframework")
+    .binaryTarget(name: "CalendarControl", path: "./Sources/CalendarControl.xcframework")
   ]
 )
