@@ -43,7 +43,7 @@ let package = Package(
   ],
   products: [
 //2
-    .library(name: "CalendarControl", targets: ["CalendarConrtol"])
+    .library(name: "CalendarControl", targets: ["CalendarControl"])
   ],
   targets: [
 //3
